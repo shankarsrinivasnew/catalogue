@@ -1,0 +1,2 @@
+component : catalogue
+params: "DOCUMENTDB:prod.catalogue.mongo,MONGO_URL:prod.docdb_url.catalogue"
